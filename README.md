@@ -12,3 +12,5 @@ name is "Ветвящаяся модель Тоскиной
 (BMT)")) is a conceptual framework that proposes a topological mechanism to address fundamental cosmological gaps: dark matter, dark energy, baryogenesis, and the horizon problem. 
 
 TBM bridges Loop Quantum Gravity (LQG) and Causal Sets theory (CST) by postulating that the observed expansion of the Universe is a geometric effect of the growth in causally connected regions ("branches"). Within this framework, primordial black holes undergoing a quantum bounce produce stable Planckian remnants that act as cold dark matter.
+
+**Read the interactive overview here:** https://telegra.ph/The-Toskina-Branching-Model-11-14
